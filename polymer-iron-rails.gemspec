@@ -14,10 +14,10 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/alchapone/polymer-iron-rails"
   spec.license       = "MIT"
 
-  
+
   spec.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.md"]
 
-  spec.add_runtime_dependency     "polymer-rails", "~>0.2.2"
+  spec.add_runtime_dependency     "polymer-rails", "~>1.0.3"
 
   spec.add_development_dependency "bundler", "~> 1.9"
   spec.add_development_dependency "rake", "~> 10.0"
