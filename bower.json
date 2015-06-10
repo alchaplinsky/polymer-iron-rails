@@ -1,0 +1,7 @@
+{
+  "name": "polymer-iron-rails",
+  "private": true,
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0"
+  }
+}
