@@ -11,7 +11,6 @@
 /app/assets/components/polymer
 /app/assets/components/webcomponentsjs
 /app/assets/components/iron-test-helpers
-/app/assets/components/paper-*
 
 /app/assets/components/**/test
 /app/assets/components/**/demo
