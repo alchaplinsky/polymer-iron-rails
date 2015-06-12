@@ -1,4 +1,5 @@
-# PolymerIronRails
+# Warning
+#### Since `iron elements` have circular dependencies with `paper` and `neon` elements, consider using [polymer-elements-rails](https://github.com/alchapone/polymer-elements-rails) gem `v1.0.0.pre.rc.1`
 
 Polymer Iron elements are a set of utility elements including general-purpose UI elements (such as icons, layout elements,
 and toolbars), as well as non-UI elements providing features like AJAX, signaling and storage.
